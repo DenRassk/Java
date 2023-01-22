@@ -1,8 +1,7 @@
-import javax.print.event.PrintEvent;
-
 // решение ДЗ к семинар 1
 // Задание: написать программу расчитывающую "треугольное" число
 
+import javax.print.event.PrintEvent;
 import java.util.Scanner;
 
 public class dz1 {
